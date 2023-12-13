@@ -6,5 +6,5 @@ This project implements a Neural Machine Translation (NMT) system to translate t
 
 ## Model Architecture
 
-The NMT system is built on an encoder-decoder architecture with GRUs. The encoder processes the input sequence (French sentence), and the decoder generates the corresponding output sequence (English translation). The decoder used Bahdanau attention to effectively capture long term dependencies.
+The NMT system is built on an encoder-decoder architecture with GRUs. The encoder processes the input sequence (French sentence), and the decoder generates the corresponding output sequence (English translation). The decoder uses Bahdanau attention to effectively capture long term dependencies.
 
